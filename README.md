@@ -1,4 +1,10 @@
-## Hi there 👋
+
+
+👋 Hi, I’m Manojkumar J
+👀 I’m interested in exploring the vast field of data Analyst, including data visualization, and statistical analysis in PowerBI Application. I'm passionate about turning data into actionable insights and solving complex problems with innovative solutions.
+🌱 I’m currently learning advanced MySQL, PowerBI and Tableau tools  . I’m also getting hands-on experience with tools.
+💞️ I’m looking to collaborate on projects related to predictive analytics, data-driven decision-making, and any initiatives that involve data visualization or big data challenges.
+📫 How to reach me: Feel free to drop me a message here on GitHub or connect with me via email at manodinesh261194@outlook.com. You can also find me on LinkedIn: manojkumar-dataanalyst
 
 <!--
 **MANOJKUMAR7654/Manojkumar7654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
